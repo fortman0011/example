@@ -52,3 +52,9 @@ pull
 [멀티캠퍼스](http://www.multicampus.com)
 
 [멀티캠퍼스](http://www.multicampus.com, "클릭하시면 멀티캠퍼스 홈페이지로 이동합니다")
+
+## 9. 이미지 넣기
+
+![이미지](./003.jpg)
+
+[![이미지](./003.jpg)](http://www.multicampus.com)
